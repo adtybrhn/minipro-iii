@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "name": "Baju Polos XL",
+      "description": "Kaos",
+      "price": "40000",
+      "stock": "99",
+      "id": "o83yE8m"
+    },
+    {
+      "name": "Celana Boxer",
+      "description": "Celana",
+      "price": "23000",
+      "stock": 22,
+      "id": "DTtk-IB"
+    },
+    {
+      "name": "Jaket Denim ",
+      "description": "Jaket",
+      "price": "120000",
+      "stock": 44,
+      "id": "Q8vgR5W"
+    },
+    {
+      "name": "Kemeja Flanel Panjang",
+      "description": "Kemeja",
+      "price": "70000",
+      "stock": "199",
+      "id": "yqFGBtO"
+    },
+    {
+      "name": "Celana Chino",
+      "description": "Celana Pria",
+      "price": "150000",
+      "stock": "55",
+      "id": "JJkdB4r"
+    },
+    {
+      "name": "Adidas Yeezy",
+      "description": "Sepatu",
+      "price": "3500000",
+      "stock": "10",
+      "id": "7gYqKdJ"
+    }
+  ],
+  "profiles": [
+    {
+      "email": "username1@mail.com",
+      "username": "username1",
+      "address": "lorem ipsum sit dolor amet",
+      "join_date": "10-11-2021",
+      "phone": "082211923056",
+      "password": "adminuser1",
+      "retypePassword": "adminuser1",
+      "id": "qwAj_BM"
+    },
+    {
+      "email": "burhanaditya@outlook.com",
+      "username": "adtybrhn",
+      "address": "lorem ipsum sit dolor amet",
+      "join_date": "10-11-2021",
+      "phone": "082211923056",
+      "password": "adtybrhn1",
+      "retypePassword": "adtybrhn1",
+      "id": "53P6Wad"
+    }
+  ]
+}
