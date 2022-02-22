@@ -38,6 +38,6 @@ $ npm run dev.
 - json-server  : https://github.com/typicode/json-server
 - react-currency-format : https://github.com/mohitgupta8888/react-currency-format#readme
 - react router dom : https://reactrouter.com/docs/en/v6/getting-started/overview
-- reactrap: reactstrap.github.io
+- reactrap: https://reactstrap.github.io/
 - sass: https://sass-lang.com/
 - yup : https://github.com/jquense/yup
